@@ -131,7 +131,7 @@ section {
     line-height: 18px;
 }
 
-.moeda-valor {
+.moeda-valor, .valor-convertido {
     color: #555;
     font-size: 20px;
     font-family: Roboto;
@@ -139,3 +139,5 @@ section {
     font-weight: 700;
     line-height: 18px;
 }
+
+
